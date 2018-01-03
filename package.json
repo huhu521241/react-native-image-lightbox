@@ -1,0 +1,20 @@
+{
+  "name": "react-native-image-lightbox",
+  "version": "1.0.4",
+  "description": "huhuge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "lightbox",
+    "image-lightbox",
+    "react-native-image-lightbox"
+  ],
+  "author": "huhuge",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-photo-view": "^1.5.2"
+  }
+}
