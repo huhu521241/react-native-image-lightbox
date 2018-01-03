@@ -37,7 +37,7 @@ import LightboxImage from 'react-native-image-lightbox';
 |**`swipeToDismiss`**|`bool`|Enables gestures to dismiss the fullscreen mode by swiping up or down, defaults to `true`.|
 |**`springConfig`**|`object`|[`Animated.spring`](https://facebook.github.io/react-native/docs/animations.html) configuration, defaults to `{ tension: 30, friction: 7 }`.|
 
-## Test
+## exhibition
 
-![Test](http://otn4d80hz.bkt.clouddn.com/2017-12-29%2014_35_05.gif)
+![show](http://otn4d80hz.bkt.clouddn.com/2017-12-29%2014_35_05.gif)
 
