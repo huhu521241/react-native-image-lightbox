@@ -39,7 +39,7 @@ import LightboxImage from 'react-native-image-lightbox';
 
 ## exhibition
 
-[image](http://otn4d80hz.bkt.clouddn.com/2017-12-29%2014_35_05.gif)
+![image](http://otn4d80hz.bkt.clouddn.com/2017-12-29%2014_35_05.gif)
 
 
 [https://www.npmjs.com/package/react-native-image-lightbox](https://www.npmjs.com/package/react-native-image-lightbox)
