@@ -1,5 +1,9 @@
 # react-native-lightbox
 
+## exhibition
+
+![image](http://otn4d80hz.bkt.clouddn.com/image.gif)
+
 ## Installation
 
 ```
@@ -9,11 +13,6 @@ or  npm install react-native-image-lightbox
 ```
 
 ## Usage
-
-## exhibition
-
-![image](http://otn4d80hz.bkt.clouddn.com/image-lightbox.gif)
-
 
 [https://www.npmjs.com/package/react-native-image-lightbox](https://www.npmjs.com/package/react-native-image-lightbox)
 
