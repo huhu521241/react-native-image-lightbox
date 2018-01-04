@@ -2,7 +2,7 @@
 
 ## exhibition
 
-![image](http://otn4d80hz.bkt.clouddn.com/lightbox2.gif)
+![image](http://otn4d80hz.bkt.clouddn.com/2018-01-04%2016_14_55.gif)
 
 ## Installation
 
