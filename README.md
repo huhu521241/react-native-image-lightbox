@@ -19,13 +19,13 @@ or  npm install react-native-image-lightbox
 ```js
 import LightboxImage from 'react-native-image-lightbox';
 
-  <LightboxImage  
+   <LightboxImage  
         imageWidth = {260}
         imageHeight = {260}
         underlayColor = "#fff"
-        source={{ uri: 'http://knittingisawesome.com/wp-content/uploads/2012/12/cat-wearing-a-reindeer-hat1.jpg'}}>
+        imagesource = 'http://knittingisawesome.com/wp-content/uploads/2012/12/cat-wearing-a-reindeer-hat1.jpg' >
  
-  </Lightbox>
+  </LightboxImage>
 );
 ```
 
