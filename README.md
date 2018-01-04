@@ -2,7 +2,7 @@
 
 ## exhibition
 
-![image](http://otn4d80hz.bkt.clouddn.com/image.gif)
+![image](http://otn4d80hz.bkt.clouddn.com/image2.gif)
 
 ## Installation
 
