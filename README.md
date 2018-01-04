@@ -10,6 +10,13 @@ or  npm install react-native-image-lightbox
 
 ## Usage
 
+## exhibition
+
+![image](http://otn4d80hz.bkt.clouddn.com/image-lightbox.gif)
+
+
+[https://www.npmjs.com/package/react-native-image-lightbox](https://www.npmjs.com/package/react-native-image-lightbox)
+
 ```js
 import LightboxImage from 'react-native-image-lightbox';
 
@@ -17,7 +24,7 @@ import LightboxImage from 'react-native-image-lightbox';
         imageWidth = {260}
         imageHeight = {260}
         underlayColor = "#fff"
-        source={{ uri: 'http://knittingisawesome.com/wp-content/uploads/2012/12/cat-wearing-a-reindeer-hat1.jpg' }}>
+        source={{ uri: 'http://knittingisawesome.com/wp-content/uploads/2012/12/cat-wearing-a-reindeer-hat1.jpg'}}>
  
   </Lightbox>
 );
@@ -37,9 +44,3 @@ import LightboxImage from 'react-native-image-lightbox';
 |**`swipeToDismiss`**|`bool`|Enables gestures to dismiss the fullscreen mode by swiping up or down, defaults to `true`.|
 |**`springConfig`**|`object`|[`Animated.spring`](https://facebook.github.io/react-native/docs/animations.html) configuration, defaults to `{ tension: 30, friction: 7 }`.|
 
-## exhibition
-
-![image](http://otn4d80hz.bkt.clouddn.com/image-lightbox.gif)
-
-
-[https://www.npmjs.com/package/react-native-image-lightbox](https://www.npmjs.com/package/react-native-image-lightbox)
